@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Gu4sdNLZIhFF/YxD+pMqNLq2zhAHFdPmHY5GmslMCtM=",
+  "Source": "Orbita.SoaApi",
+  "BasePath": "_content/Orbita.SoaApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

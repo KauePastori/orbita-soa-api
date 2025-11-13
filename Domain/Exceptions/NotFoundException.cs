@@ -1,0 +1,7 @@
+namespace Orbita.SoaApi.Domain.Exceptions
+{
+    public class NotFoundException : DomainException
+    {
+        public NotFoundException(string message) : base(message) { }
+    }
+}
