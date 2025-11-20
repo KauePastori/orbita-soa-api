@@ -13,6 +13,7 @@ Disciplina: **SOA & WebServices**
 |------|----|
 | **Kaue Pastori Teixeira** | **RM98501** |
 | **Felipe Bressane** | **RM97688** |
+| **Nicolas Boni**       | `551965` |
 
 ---
 
